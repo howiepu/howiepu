@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-:panda_face: <samp>open-source intern</samp>
+:panda_face:  <samp>A open-source intern</samp>
 <br>
